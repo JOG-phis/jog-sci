@@ -3,197 +3,197 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/2eso/apuntes/tema-4/</loc>
+    <loc>http://localhost:1313/jog-sci/2eso/apuntes/tema-4/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/2eso/apuntes/tema-3/</loc>
+    <loc>http://localhost:1313/jog-sci/2eso/apuntes/tema-3/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/2eso/apuntes/tema-2/</loc>
+    <loc>http://localhost:1313/jog-sci/2eso/apuntes/tema-2/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/2eso/apuntes/tema-1/</loc>
+    <loc>http://localhost:1313/jog-sci/2eso/apuntes/tema-1/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/2eso/apuntes/tema-1/"
+      href="http://localhost:1313/jog-sci/en/2eso/apuntes/tema-1/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="//localhost:1313/2eso/apuntes/tema-1/"
+      href="http://localhost:1313/jog-sci/2eso/apuntes/tema-1/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/jog-sci/</loc>
     <lastmod>2025-12-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/"
+      href="http://localhost:1313/jog-sci/en/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="//localhost:1313/"
+      href="http://localhost:1313/jog-sci/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>http://localhost:1313/jog-sci/about/</loc>
     <lastmod>2025-12-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/about/"
+      href="http://localhost:1313/jog-sci/en/about/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="//localhost:1313/about/"
+      href="http://localhost:1313/jog-sci/about/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/2eso/apuntes/</loc>
+    <loc>http://localhost:1313/jog-sci/2eso/apuntes/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/2eso/apuntes/"
+      href="http://localhost:1313/jog-sci/en/2eso/apuntes/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="//localhost:1313/2eso/apuntes/"
+      href="http://localhost:1313/jog-sci/2eso/apuntes/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/2eso/</loc>
+    <loc>http://localhost:1313/jog-sci/2eso/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/2eso/"
+      href="http://localhost:1313/jog-sci/en/2eso/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="//localhost:1313/2eso/"
+      href="http://localhost:1313/jog-sci/2eso/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/authors/</loc>
+    <loc>http://localhost:1313/jog-sci/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/authors/"
+      href="http://localhost:1313/jog-sci/en/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="//localhost:1313/authors/"
+      href="http://localhost:1313/jog-sci/authors/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/jog-sci/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/categories/"
+      href="http://localhost:1313/jog-sci/en/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="//localhost:1313/categories/"
+      href="http://localhost:1313/jog-sci/categories/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/tags/densidad/</loc>
+    <loc>http://localhost:1313/jog-sci/tags/densidad/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/2eso/actividades/</loc>
+    <loc>http://localhost:1313/jog-sci/2eso/actividades/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/f%C3%ADsica/</loc>
+    <loc>http://localhost:1313/jog-sci/tags/f%C3%ADsica/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/materia/</loc>
+    <loc>http://localhost:1313/jog-sci/tags/materia/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/m%C3%A9todo-cient%C3%ADfico/</loc>
+    <loc>http://localhost:1313/jog-sci/tags/m%C3%A9todo-cient%C3%ADfico/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/2eso/laboratorio/</loc>
+    <loc>http://localhost:1313/jog-sci/2eso/laboratorio/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/qu%C3%ADmica/</loc>
+    <loc>http://localhost:1313/jog-sci/tags/qu%C3%ADmica/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/2eso/recursos/</loc>
+    <loc>http://localhost:1313/jog-sci/2eso/recursos/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/series/</loc>
+    <loc>http://localhost:1313/jog-sci/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/series/"
+      href="http://localhost:1313/jog-sci/en/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="//localhost:1313/series/"
+      href="http://localhost:1313/jog-sci/series/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/jog-sci/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/tags/"
+      href="http://localhost:1313/jog-sci/en/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="//localhost:1313/tags/"
+      href="http://localhost:1313/jog-sci/tags/"
     />
   </url>
 </urlset>

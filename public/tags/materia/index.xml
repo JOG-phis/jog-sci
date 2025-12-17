@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Materia on Juan OG | Science</title>
-    <link>//localhost:1313/tags/materia/</link>
+    <link>http://localhost:1313/jog-sci/tags/materia/</link>
     <description>Recent content in Materia on Juan OG | Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2025 </copyright>
-    <atom:link href="//localhost:1313/tags/materia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/jog-sci/tags/materia/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Tema 4: fff</title>
-      <link>//localhost:1313/2eso/apuntes/tema-4/</link>
+      <link>http://localhost:1313/jog-sci/2eso/apuntes/tema-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/2eso/apuntes/tema-4/</guid>
+      <guid>http://localhost:1313/jog-sci/2eso/apuntes/tema-4/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;1. Propiedades de la materia
     &lt;div id=&#34;1-propiedades-de-la-materia&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -62,15 +62,15 @@
     
 &lt;/h2&gt;
 &lt;p&gt;Podemos encontrar la materia en tres estados:&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/2eso/apuntes/tema-4/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/jog-sci/2eso/apuntes/tema-4/featured.jpg" />
     </item>
     
     <item>
       <title>Tema 3: fff</title>
-      <link>//localhost:1313/2eso/apuntes/tema-3/</link>
+      <link>http://localhost:1313/jog-sci/2eso/apuntes/tema-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/2eso/apuntes/tema-3/</guid>
+      <guid>http://localhost:1313/jog-sci/2eso/apuntes/tema-3/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;1. Propiedades de la materia
     &lt;div id=&#34;1-propiedades-de-la-materia&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -118,27 +118,27 @@
     
 &lt;/h2&gt;
 &lt;p&gt;Podemos encontrar la materia en tres estados:&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/2eso/apuntes/tema-3/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/jog-sci/2eso/apuntes/tema-3/featured.jpg" />
     </item>
     
     <item>
       <title>Tema 2: asd</title>
-      <link>//localhost:1313/2eso/apuntes/tema-2/</link>
+      <link>http://localhost:1313/jog-sci/2eso/apuntes/tema-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/2eso/apuntes/tema-2/</guid>
+      <guid>http://localhost:1313/jog-sci/2eso/apuntes/tema-2/</guid>
       <description>Aquí escribes el resumen corto que quieres que se lea en el grid.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/2eso/apuntes/tema-2/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/jog-sci/2eso/apuntes/tema-2/featured.jpg" />
     </item>
     
     <item>
       <title>Tema 1: La ciencia y la medida</title>
-      <link>//localhost:1313/2eso/apuntes/tema-1/</link>
+      <link>http://localhost:1313/jog-sci/2eso/apuntes/tema-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/2eso/apuntes/tema-1/</guid>
+      <guid>http://localhost:1313/jog-sci/2eso/apuntes/tema-1/</guid>
       <description>Aprende cómo funciona el método científico, cómo medir con precisión usando el Sistema Internacional, convertir unidades y trabajar con seguridad en el laboratorio.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/2eso/apuntes/tema-1/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/jog-sci/2eso/apuntes/tema-1/featured.jpg" />
     </item>
     
   </channel>
