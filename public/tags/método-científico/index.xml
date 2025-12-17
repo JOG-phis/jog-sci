@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Método Científico on Juan OG | Science</title>
+    <link>//localhost:1313/tags/m%C3%A9todo-cient%C3%ADfico/</link>
+    <description>Recent content in Método Científico on Juan OG | Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2025 </copyright>
+    <atom:link href="//localhost:1313/tags/m%C3%A9todo-cient%C3%ADfico/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tema 1: La ciencia y la medida</title>
+      <link>//localhost:1313/2eso/apuntes/tema-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/2eso/apuntes/tema-1/</guid>
+      <description>Aprende cómo funciona el método científico, cómo medir con precisión usando el Sistema Internacional, convertir unidades y trabajar con seguridad en el laboratorio.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/2eso/apuntes/tema-1/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

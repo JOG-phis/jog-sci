@@ -1,0 +1,19 @@
+languageCode = "es"
+languageName = "Español"
+weight = 1  # El peso 1 hace que sea el idioma principal (carga por defecto)
+title = "Juan OG | Science"
+
+[params]
+  displayName = "ES"
+  isoCode = "es"
+  rtl = false
+  description = "Web personal docente"
+  dateFormat = "2 de enero de 2006" # Formato de fecha español
+  logo = "logo.png"
+
+[params.author]
+#  name = "Juan OG"
+#  image = "logo.png"
+  headline = "Enseñando aprendemos."
+  bio = "Enseñando a pensar y un poco de Física y Química de paso."
+  # Aquí puedes poner tus links si los tenías definidos

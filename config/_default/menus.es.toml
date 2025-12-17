@@ -1,0 +1,32 @@
+[[main]]
+none = "none"
+
+[[main]]
+  name = "Topics"
+  pageRef = "topics"
+  weight = 20
+  
+[[main]]
+name = "2ESO"
+pageRef = "/2eso"
+identifier = "segundo_eso"
+weight = 3
+
+[[main]]
+  name = "Parent"
+  weight = 20
+
+[[main]]
+  name = "sub-menu 1"
+  parent = "Parent"
+  pageRef = "samples"
+  weight = 20
+
+[[main]]
+name = "About"
+pageRef = "/about"
+identifier = "about"
+weight = 30
+
+[[footer]]
+none = "none"
