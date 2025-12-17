@@ -3,7 +3,10 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-# baseURL = "https://JOG-phis.github.io/jog-sci/"
+baseURL = "https://JOG-phis.github.io/jog-sci/"
+# Añade estas dos líneas:
+relativeURLs = true
+canonifyURLs = true
 defaultContentLanguage = "es"
 
 enableRobotsTXT = true
