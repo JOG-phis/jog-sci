@@ -81,13 +81,7 @@ Soy profesor de Física y Química. He creado esta web para que mis alumnos teng
 ### ¿Qué encontrarás aquí?
 En esta web recopilo mis apuntes personales, ejercicios resueltos y simulaciones interactivas para ayudarme a apreHender.
 
-<div class="flex justify-center my-8">
-  <img 
-    src="profe.jpg" 
-    alt="Foto del profesor" 
-    class="w-48 h-48 rounded-full object-cover shadow-xl border-4 border-blue-100 dark:border-blue-900"
-  >
-</div>
+{{< foto-perfil src="profe.jpg" alt="Foto de Juan el profesor" >}}
 
 {{< button href="mailto:tuemail@ejemplo.com" target="_blank" >}}
 📧 Contacta conmigo

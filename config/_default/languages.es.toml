@@ -12,8 +12,8 @@ title = "Juan OG | Science"
   logo = "logo.png"
 
 [params.author]
-#  name = "Juan OG"
-#  image = "logo.png"
+  name = "Juan OG"
+  image = "logo.png"
   headline = "Enseñando aprendemos."
   bio = "Enseñando a pensar y un poco de Física y Química de paso."
   # Aquí puedes poner tus links si los tenías definidos

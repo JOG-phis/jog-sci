@@ -1,32 +1,220 @@
+# config/_default/menus.en.toml
+
+# =========================
+# GRADE 8 (2º ESO)
+# =========================
 [[main]]
-none = "none"
+  name = "Grade 8"
+  weight = 10
 
 [[main]]
-  name = "Topics"
-  pageRef = "topics"
+  identifier = "g8_notes"
+  name = "Notes"
+  parent = "Grade 8"
+  pageRef = "/2eso/apuntes"
+  weight = 11
+
+[[main]]
+  identifier = "g8_ex"
+  name = "Exercises"
+  parent = "Grade 8"
+  pageRef = "/2eso/actividades"
+  weight = 12
+
+[[main]]
+  identifier = "g8_lab"
+  name = "Lab"
+  parent = "Grade 8"
+  pageRef = "/2eso/laboratorio"
+  weight = 13
+
+[[main]]
+  identifier = "g8_res"
+  name = "Resources"
+  parent = "Grade 8"
+  pageRef = "/2eso/recursos"
+  weight = 14
+
+# =========================
+# GRADE 9 (3º ESO)
+# =========================
+[[main]]
+  name = "Grade 9"
   weight = 20
-  
-[[main]]
-name = "2ESO"
-pageRef = "/2eso"
-identifier = "segundo_eso"
-weight = 3
 
 [[main]]
-  name = "Parent"
-  weight = 20
+  identifier = "g9_notes"
+  name = "Notes"
+  parent = "Grade 9"
+  pageRef = "/3eso/apuntes"
+  weight = 21
 
 [[main]]
-  name = "sub-menu 1"
-  parent = "Parent"
-  pageRef = "samples"
-  weight = 20
+  identifier = "g9_ex"
+  name = "Exercises"
+  parent = "Grade 9"
+  pageRef = "/3eso/actividades"
+  weight = 22
 
 [[main]]
-name = "About"
-pageRef = "/about"
-identifier = "about"
-weight = 30
+  identifier = "g9_lab"
+  name = "Lab"
+  parent = "Grade 9"
+  pageRef = "/3eso/laboratorio"
+  weight = 23
 
-[[footer]]
-none = "none"
+[[main]]
+  identifier = "g9_res"
+  name = "Resources"
+  parent = "Grade 9"
+  pageRef = "/3eso/recursos"
+  weight = 24
+
+# =========================
+# GRADE 10 (4º ESO)
+# =========================
+[[main]]
+  name = "Grade 10"
+  weight = 30
+
+[[main]]
+  identifier = "g10_notes"
+  name = "Notes"
+  parent = "Grade 10"
+  pageRef = "/4eso/apuntes"
+  weight = 31
+
+[[main]]
+  identifier = "g10_ex"
+  name = "Exercises"
+  parent = "Grade 10"
+  pageRef = "/4eso/actividades"
+  weight = 32
+
+[[main]]
+  identifier = "g10_lab"
+  name = "Lab"
+  parent = "Grade 10"
+  pageRef = "/4eso/laboratorio"
+  weight = 33
+
+[[main]]
+  identifier = "g10_res"
+  name = "Resources"
+  parent = "Grade 10"
+  pageRef = "/4eso/recursos"
+  weight = 34
+
+# =========================
+# GRADE 11 (1º BACH)
+# =========================
+[[main]]
+  name = "Grade 11"
+  weight = 40
+
+[[main]]
+  identifier = "g11_notes"
+  name = "Notes"
+  parent = "Grade 11"
+  pageRef = "/1bach/apuntes"
+  weight = 41
+
+[[main]]
+  identifier = "g11_ex"
+  name = "Exercises"
+  parent = "Grade 11"
+  pageRef = "/1bach/actividades"
+  weight = 42
+
+[[main]]
+  identifier = "g11_lab"
+  name = "Lab"
+  parent = "Grade 11"
+  pageRef = "/1bach/laboratorio"
+  weight = 43
+
+[[main]]
+  identifier = "g11_res"
+  name = "Resources"
+  parent = "Grade 11"
+  pageRef = "/1bach/recursos"
+  weight = 44
+
+# =========================
+# PHYSICS
+# =========================
+[[main]]
+  name = "Physics"
+  weight = 50
+
+[[main]]
+  identifier = "phys_notes"
+  name = "Notes"
+  parent = "Physics"
+  pageRef = "/fisica/apuntes"
+  weight = 51
+
+[[main]]
+  identifier = "phys_ex"
+  name = "Exercises"
+  parent = "Physics"
+  pageRef = "/fisica/actividades"
+  weight = 52
+
+[[main]]
+  identifier = "phys_lab"
+  name = "Lab"
+  parent = "Physics"
+  pageRef = "/fisica/laboratorio"
+  weight = 53
+
+[[main]]
+  identifier = "phys_res"
+  name = "Resources"
+  parent = "Physics"
+  pageRef = "/fisica/recursos"
+  weight = 54
+
+# =========================
+# CHEMISTRY
+# =========================
+[[main]]
+  name = "Chemistry"
+  weight = 60
+
+[[main]]
+  identifier = "chem_notes"
+  name = "Notes"
+  parent = "Chemistry"
+  pageRef = "/quimica/apuntes"
+  weight = 61
+
+[[main]]
+  identifier = "chem_ex"
+  name = "Exercises"
+  parent = "Chemistry"
+  pageRef = "/quimica/actividades"
+  weight = 62
+
+[[main]]
+  identifier = "chem_lab"
+  name = "Lab"
+  parent = "Chemistry"
+  pageRef = "/quimica/laboratorio"
+  weight = 63
+
+[[main]]
+  identifier = "chem_res"
+  name = "Resources"
+  parent = "Chemistry"
+  pageRef = "/quimica/recursos"
+  weight = 64
+
+# =========================
+# OTHER
+# =========================
+[[main]]
+  identifier = "about_en"
+  name = "About"
+  pageRef = "/about"
+  weight = 70

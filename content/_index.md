@@ -1,54 +1,11 @@
 ---
-title: "Profesor de Ciencias"
-description: "Bienvenido a mi aula virtual"
+title: "Aula Virtual"
+description: "Recursos docentes de Ciencias"
+cascade:
+  showDate: false
+  showAuthor: false
+  showReadingTime: false
 ---
-
-¡Hola! Soy Juan. Bienvenido a mi espacio docente. Aquí encontrarás los recursos para mis clases en España y mi próxima estancia en EEUU.
-
-## Mis Cursos
-
-<div class="grid grid-cols-1 md:grid-cols-3 gap-6 my-8">
-
-  <a href="/2eso" class="group relative p-6 bg-white dark:bg-neutral-800 rounded-2xl shadow-md hover:shadow-xl hover:scale-105 transition-all duration-300 ease-in-out border border-neutral-200 dark:border-neutral-700 no-underline flex flex-col items-center">
-    <div class="bg-blue-50 dark:bg-blue-900/30 p-3 rounded-full mb-4">
-        <img src="/iconos/2esodef.png" alt="2ESO" class="w-16 h-16 object-contain">
-    </div>
-    <div class="font-bold text-lg text-neutral-800 dark:text-neutral-100 group-hover:text-primary-600 dark:group-hover:text-primary-400">2º ESO</div>
-  </a>
-
-  <a href="/3eso" class="group relative p-6 bg-white dark:bg-neutral-800 rounded-2xl shadow-md hover:shadow-xl hover:scale-105 transition-all duration-300 ease-in-out border border-neutral-200 dark:border-neutral-700 no-underline flex flex-col items-center">
-    <div class="bg-green-50 dark:bg-green-900/30 p-3 rounded-full mb-4">
-        <img src="/iconos/3eso.png" alt="3ESO" class="w-16 h-16 object-contain">
-    </div>
-    <div class="font-bold text-lg text-neutral-800 dark:text-neutral-100 group-hover:text-primary-600 dark:group-hover:text-primary-400">3º ESO</div>
-  </a>
-
-  <a href="/4eso" class="group relative p-6 bg-white dark:bg-neutral-800 rounded-2xl shadow-md hover:shadow-xl hover:scale-105 transition-all duration-300 ease-in-out border border-neutral-200 dark:border-neutral-700 no-underline flex flex-col items-center">
-    <div class="bg-purple-50 dark:bg-purple-900/30 p-3 rounded-full mb-4">
-        <img src="/iconos/4eso.png" alt="4ESO" class="w-16 h-16 object-contain">
-    </div>
-    <div class="font-bold text-lg text-neutral-800 dark:text-neutral-100 group-hover:text-primary-600 dark:group-hover:text-primary-400">4º ESO</div>
-  </a>
-
-  <a href="/1bach" class="group relative p-6 bg-white dark:bg-neutral-800 rounded-2xl shadow-md hover:shadow-xl hover:scale-105 transition-all duration-300 ease-in-out border border-neutral-200 dark:border-neutral-700 no-underline flex flex-col items-center">
-    <div class="bg-orange-50 dark:bg-orange-900/30 p-3 rounded-full mb-4">
-        <img src="/iconos/1bach.png" alt="1Bach" class="w-16 h-16 object-contain">
-    </div>
-    <div class="font-bold text-lg text-neutral-800 dark:text-neutral-100 group-hover:text-primary-600 dark:group-hover:text-primary-400">1º Bachillerato</div>
-  </a>
-
-  <a href="/2bach-fisica" class="group relative p-6 bg-white dark:bg-neutral-800 rounded-2xl shadow-md hover:shadow-xl hover:scale-105 transition-all duration-300 ease-in-out border border-neutral-200 dark:border-neutral-700 no-underline flex flex-col items-center">
-    <div class="bg-red-50 dark:bg-red-900/30 p-3 rounded-full mb-4">
-        <img src="/iconos/fisica.png" alt="Física" class="w-16 h-16 object-contain">
-    </div>
-    <div class="font-bold text-lg text-neutral-800 dark:text-neutral-100 group-hover:text-primary-600 dark:group-hover:text-primary-400">2º Bach. Física</div>
-  </a>
-
-  <a href="/2bach-quimica" class="group relative p-6 bg-white dark:bg-neutral-800 rounded-2xl shadow-md hover:shadow-xl hover:scale-105 transition-all duration-300 ease-in-out border border-neutral-200 dark:border-neutral-700 no-underline flex flex-col items-center">
-    <div class="bg-teal-50 dark:bg-teal-900/30 p-3 rounded-full mb-4">
-        <img src="/iconos/quimica.png" alt="Química" class="w-16 h-16 object-contain">
-    </div>
-    <div class="font-bold text-lg text-neutral-800 dark:text-neutral-100 group-hover:text-primary-600 dark:group-hover:text-primary-400">2º Bach. Química</div>
-  </a>
-
-</div>
+<div class="flex flex-col md:flex-row items-center gap-8 mb-12 p-6 bg-neutral-100 dark:bg-neutral-800/50 rounded-2xl border border-neutral-200 dark:border-neutral-700/50"><div class="flex-shrink-0"><div class="w-24 h-24 md:w-32 md:h-32 rounded-full overflow-hidden border-4 border-white dark:border-neutral-700 shadow-lg"><img src="logo.png" alt="Juan OG" class="w-full h-full object-cover"></div></div><div class="text-center md:text-left"><h1 class="text-2xl md:text-3xl font-bold mt-0 mb-2 text-neutral-900 dark:text-neutral-50">¡Hola! Soy Juan.</h1><p class="text-neutral-600 dark:text-neutral-300 text-lg leading-relaxed m-0">Bienvenido a mi espacio docente. Aquí encontrarás los apuntes, ejercicios y recursos de laboratorio para mis clases en España y mi estancia en EEUU.</p></div></div>
+<h2 class="flex items-center gap-3 text-2xl font-bold mt-12 mb-6 border-b pb-2 border-neutral-200 dark:border-neutral-700"><i class="fa-solid fa-book"></i> Mis Cursos</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5"><a href="/2eso" class="group relative no-underline overflow-hidden bg-white dark:bg-neutral-800 rounded-2xl p-6 border border-neutral-200 dark:border-neutral-700 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300"><div class="absolute top-0 right-0 -mr-8 -mt-8 w-32 h-32 rounded-full bg-blue-100 dark:bg-blue-900/20 blur-2xl group-hover:bg-blue-200 dark:group-hover:bg-blue-800/30 transition-colors"></div><div class="relative z-10 flex items-start justify-between"><div><div class="text-blue-600 dark:text-blue-400 mb-3 bg-blue-50 dark:bg-blue-900/30 w-12 h-12 flex items-center justify-center rounded-xl group-hover:scale-110 transition-transform"><i class="fa-solid fa-flask text-xl"></i></div><h3 class="text-xl font-bold text-neutral-900 dark:text-white m-0 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">2º ESO</h3><p class="text-sm text-neutral-500 dark:text-neutral-400 mt-1 mb-0">Ciencias Básicas</p></div><span class="text-neutral-300 group-hover:text-blue-500 transition-colors"><i class="fa-solid fa-arrow-right"></i></span></div></a><a href="/3eso" class="group relative no-underline overflow-hidden bg-white dark:bg-neutral-800 rounded-2xl p-6 border border-neutral-200 dark:border-neutral-700 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300"><div class="absolute top-0 right-0 -mr-8 -mt-8 w-32 h-32 rounded-full bg-green-100 dark:bg-green-900/20 blur-2xl group-hover:bg-green-200 dark:group-hover:bg-green-800/30 transition-colors"></div><div class="relative z-10 flex items-start justify-between"><div><div class="text-green-600 dark:text-green-400 mb-3 bg-green-50 dark:bg-green-900/30 w-12 h-12 flex items-center justify-center rounded-xl group-hover:scale-110 transition-transform"><i class="fa-solid fa-atom text-xl"></i></div><h3 class="text-xl font-bold text-neutral-900 dark:text-white m-0 group-hover:text-green-600 dark:group-hover:text-green-400 transition-colors">3º ESO</h3><p class="text-sm text-neutral-500 dark:text-neutral-400 mt-1 mb-0">Física y Química</p></div><span class="text-neutral-300 group-hover:text-green-500 transition-colors"><i class="fa-solid fa-arrow-right"></i></span></div></a><a href="/4eso" class="group relative no-underline overflow-hidden bg-white dark:bg-neutral-800 rounded-2xl p-6 border border-neutral-200 dark:border-neutral-700 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300"><div class="absolute top-0 right-0 -mr-8 -mt-8 w-32 h-32 rounded-full bg-orange-100 dark:bg-orange-900/20 blur-2xl group-hover:bg-orange-200 dark:group-hover:bg-orange-800/30 transition-colors"></div><div class="relative z-10 flex items-start justify-between"><div><div class="text-orange-600 dark:text-orange-400 mb-3 bg-orange-50 dark:bg-orange-900/30 w-12 h-12 flex items-center justify-center rounded-xl group-hover:scale-110 transition-transform"><i class="fa-solid fa-magnet text-xl"></i></div><h3 class="text-xl font-bold text-neutral-900 dark:text-white m-0 group-hover:text-orange-600 dark:group-hover:text-orange-400 transition-colors">4º ESO</h3><p class="text-sm text-neutral-500 dark:text-neutral-400 mt-1 mb-0">Profundización</p></div><span class="text-neutral-300 group-hover:text-orange-500 transition-colors"><i class="fa-solid fa-arrow-right"></i></span></div></a><a href="/1bach" class="group relative no-underline overflow-hidden bg-white dark:bg-neutral-800 rounded-2xl p-6 border border-neutral-200 dark:border-neutral-700 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300"><div class="absolute top-0 right-0 -mr-8 -mt-8 w-32 h-32 rounded-full bg-purple-100 dark:bg-purple-900/20 blur-2xl group-hover:bg-purple-200 dark:group-hover:bg-purple-800/30 transition-colors"></div><div class="relative z-10 flex items-start justify-between"><div><div class="text-purple-600 dark:text-purple-400 mb-3 bg-purple-50 dark:bg-purple-900/30 w-12 h-12 flex items-center justify-center rounded-xl group-hover:scale-110 transition-transform"><i class="fa-solid fa-graduation-cap text-xl"></i></div><h3 class="text-xl font-bold text-neutral-900 dark:text-white m-0 group-hover:text-purple-600 dark:group-hover:text-purple-400 transition-colors">1º Bachillerato</h3><p class="text-sm text-neutral-500 dark:text-neutral-400 mt-1 mb-0">Ciencia Avanzada</p></div><span class="text-neutral-300 group-hover:text-purple-500 transition-colors"><i class="fa-solid fa-arrow-right"></i></span></div></a></div>

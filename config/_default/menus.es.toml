@@ -1,32 +1,220 @@
+# config/_default/menus.es.toml
+
+# =========================
+# 2º ESO
+# =========================
 [[main]]
-none = "none"
+  name = "2º ESO"
+  weight = 10
 
 [[main]]
-  name = "Topics"
-  pageRef = "topics"
+  identifier = "2eso_apuntes"
+  name = "Apuntes"
+  parent = "2º ESO"
+  pageRef = "2eso/apuntes" # <--- Sin barra inicial
+  weight = 11
+
+[[main]]
+  identifier = "2eso_actividades"
+  name = "Ejercicios"
+  parent = "2º ESO"
+  pageRef = "2eso/actividades"
+  weight = 12
+
+[[main]]
+  identifier = "2eso_lab"
+  name = "Laboratorio"
+  parent = "2º ESO"
+  pageRef = "2eso/laboratorio"
+  weight = 13
+
+[[main]]
+  identifier = "2eso_recursos"
+  name = "Recursos"
+  parent = "2º ESO"
+  pageRef = "2eso/recursos"
+  weight = 14
+
+# =========================
+# 3º ESO
+# =========================
+[[main]]
+  name = "3º ESO"
   weight = 20
-  
-[[main]]
-name = "2ESO"
-pageRef = "/2eso"
-identifier = "segundo_eso"
-weight = 3
 
 [[main]]
-  name = "Parent"
-  weight = 20
+  identifier = "3eso_apuntes"
+  name = "Apuntes"
+  parent = "3º ESO"
+  pageRef = "3eso/apuntes"
+  weight = 21
 
 [[main]]
-  name = "sub-menu 1"
-  parent = "Parent"
-  pageRef = "samples"
-  weight = 20
+  identifier = "3eso_actividades"
+  name = "Ejercicios"
+  parent = "3º ESO"
+  pageRef = "3eso/actividades"
+  weight = 22
 
 [[main]]
-name = "About"
-pageRef = "/about"
-identifier = "about"
-weight = 30
+  identifier = "3eso_lab"
+  name = "Laboratorio"
+  parent = "3º ESO"
+  pageRef = "3eso/laboratorio"
+  weight = 23
 
-[[footer]]
-none = "none"
+[[main]]
+  identifier = "3eso_recursos"
+  name = "Recursos"
+  parent = "3º ESO"
+  pageRef = "3eso/recursos"
+  weight = 24
+
+# =========================
+# 4º ESO
+# =========================
+[[main]]
+  name = "4º ESO"
+  weight = 30
+
+[[main]]
+  identifier = "4eso_apuntes"
+  name = "Apuntes"
+  parent = "4º ESO"
+  pageRef = "4eso/apuntes"
+  weight = 31
+
+[[main]]
+  identifier = "4eso_actividades"
+  name = "Ejercicios"
+  parent = "4º ESO"
+  pageRef = "4eso/actividades"
+  weight = 32
+
+[[main]]
+  identifier = "4eso_lab"
+  name = "Laboratorio"
+  parent = "4º ESO"
+  pageRef = "4eso/laboratorio"
+  weight = 33
+
+[[main]]
+  identifier = "4eso_recursos"
+  name = "Recursos"
+  parent = "4º ESO"
+  pageRef = "4eso/recursos"
+  weight = 34
+
+# =========================
+# 1º BACHILLERATO
+# =========================
+[[main]]
+  name = "1º Bach"
+  weight = 40
+
+[[main]]
+  identifier = "1bach_apuntes"
+  name = "Apuntes"
+  parent = "1º Bach"
+  pageRef = "1bach/apuntes"
+  weight = 41
+
+[[main]]
+  identifier = "1bach_actividades"
+  name = "Ejercicios"
+  parent = "1º Bach"
+  pageRef = "1bach/actividades"
+  weight = 42
+
+[[main]]
+  identifier = "1bach_lab"
+  name = "Laboratorio"
+  parent = "1º Bach"
+  pageRef = "1bach/laboratorio"
+  weight = 43
+
+[[main]]
+  identifier = "1bach_recursos"
+  name = "Recursos"
+  parent = "1º Bach"
+  pageRef = "1bach/recursos"
+  weight = 44
+
+# =========================
+# FÍSICA
+# =========================
+[[main]]
+  name = "Física"
+  weight = 50
+
+[[main]]
+  identifier = "fisica_apuntes"
+  name = "Apuntes"
+  parent = "Física"
+  pageRef = "fisica/apuntes"
+  weight = 51
+
+[[main]]
+  identifier = "fisica_actividades"
+  name = "Ejercicios"
+  parent = "Física"
+  pageRef = "fisica/actividades"
+  weight = 52
+
+[[main]]
+  identifier = "fisica_lab"
+  name = "Laboratorio"
+  parent = "Física"
+  pageRef = "fisica/laboratorio"
+  weight = 53
+
+[[main]]
+  identifier = "fisica_recursos"
+  name = "Recursos"
+  parent = "Física"
+  pageRef = "fisica/recursos"
+  weight = 54
+
+# =========================
+# QUÍMICA
+# =========================
+[[main]]
+  name = "Química"
+  weight = 60
+
+[[main]]
+  identifier = "quimica_apuntes"
+  name = "Apuntes"
+  parent = "Química"
+  pageRef = "quimica/apuntes"
+  weight = 61
+
+[[main]]
+  identifier = "quimica_actividades"
+  name = "Ejercicios"
+  parent = "Química"
+  pageRef = "quimica/actividades"
+  weight = 62
+
+[[main]]
+  identifier = "quimica_lab"
+  name = "Laboratorio"
+  parent = "Química"
+  pageRef = "quimica/laboratorio"
+  weight = 63
+
+[[main]]
+  identifier = "quimica_recursos"
+  name = "Recursos"
+  parent = "Química"
+  pageRef = "quimica/recursos"
+  weight = 64
+
+# =========================
+# OTROS
+# =========================
+[[main]]
+  identifier = "main_about"
+  name = "Sobre mí"
+  pageRef = "about" # También aquí
+  weight = 70

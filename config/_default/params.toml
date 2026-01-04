@@ -1,4 +1,4 @@
-colorScheme = "avocado"
+colorScheme = "blowfish"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableSearch = true
@@ -17,7 +17,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "hero"
+layout = "background"
 showRecent = false
 showRecentItems = "1"
 showMoreLink = false
